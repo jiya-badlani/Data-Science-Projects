@@ -1,5 +1,4 @@
-# CODSOFT
-Welcome to my Data Science Internship Portfolio! In this repository, you will find projects and analyses that I completed during my CODSOFT internship, showcasing my hands-on experience with data manipulation, machine learning, and data visualization and the skills I developed while solving these real-world problems.
+Welcome to my Data Science Project Portfolio! In this repository, you will find projects and analyses that showcase my hands-on experience with data manipulation, machine learning, and data visualization.
 ## PROJECTS
 1. Titanic Survival Prediction:
 This project analyses a Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. It involves data preprocessing, exploratory data analysis, and building a machine learning model.
